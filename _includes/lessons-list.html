@@ -1,7 +1,7 @@
 <ul class="post-list">
 {% for page in site.lessons %}
     <h3>
-      <a href="{{ lesson.url | relative_url }}">{{ page.title | escape }}</a>
+      <a href="{{ page.url | relative_url }}">{{ page.title | escape }}</a>
     </h3>
 {% endfor %}
 </ul>
