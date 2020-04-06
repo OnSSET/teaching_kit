@@ -26,7 +26,7 @@ description:
   OnSSET is a non-profit project. We rely on external funding and welcome partnerships. 
   The OnSSET Teaching Kit is administered by the Division of Energy Systems - KTH Royal Institute of Technology
  
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "teaching_kit" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  onsset

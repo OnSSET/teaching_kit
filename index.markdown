@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 Welcome to the training course for the Open Source Spatial Electrification Tool (OnSSET)
 
