@@ -1,5 +1,5 @@
 ---
-title:  "Introduction to Geospatial Electrification Modelling and GIS"
+title:  "Module 1: Introduction to Geospatial Electrification Modelling and GIS"
 layout: post
 ---
 

@@ -3,7 +3,7 @@ title:  "Module 2: Geospatial elecrification analysis using the GEP Scenario"
 layout: post
 ---
 
-# Lecture 3: Geospatial elecrification analysis using the GEP Scenario
+# Lecture 3: Geospatial electrification analysis using the GEP Scenario
 
 <style>
 

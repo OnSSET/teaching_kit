@@ -36,7 +36,11 @@ markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
-
+exclude:
+  - README.md
+  - LICENSE.txt
+  - Gemfile
+  - Gemfile.lock
 
 # Exclude from processing.
 # The following items will not be processed, by default.
