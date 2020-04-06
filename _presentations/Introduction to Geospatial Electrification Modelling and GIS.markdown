@@ -1,6 +1,6 @@
 ---
 title:  "Introduction to Geospatial Electrification Modelling and GIS"
-layout: page
+layout: presentation
 ---
 
 # Lecture 1: Introduction to geospatial electrification modelling
