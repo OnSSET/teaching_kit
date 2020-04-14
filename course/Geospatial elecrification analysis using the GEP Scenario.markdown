@@ -1,7 +1,8 @@
 ---
 title:  "Module 2: Geospatial elecrification analysis using the GEP Scenario"
-layout: post
+layout: page
 ---
+
 
 # Lecture 3: Geospatial electrification analysis using the GEP Scenario
 

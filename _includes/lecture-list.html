@@ -1,0 +1,12 @@
+<ul class="post-list">
+    {% for page in site.pages %}
+      {% assign parts = page.url | split: '/' %}
+      {% if parts[1] == "lectures" and page.title %}
+      <li>
+        <h4>
+          <a href="{{ page.url | relative_url }}">{{ page.title | escape }}</a>
+        </h4>
+      </li>  
+      {% endif %}
+    {% endfor %}
+    </ul> 

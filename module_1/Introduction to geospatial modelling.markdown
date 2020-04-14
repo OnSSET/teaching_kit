@@ -1,7 +1,9 @@
 ---
-title:  "Module 1: Introduction to Geospatial Electrification Modelling and GIS"
-layout: post
+title:  "Lecture 1: Introduction to geospatial modelling"
+layout: page
+folder: module_1
 ---
+{% include module_1-list.html %}
 
 # Lecture 1: Introduction to geospatial electrification modelling
 
