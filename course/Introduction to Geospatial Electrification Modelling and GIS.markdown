@@ -1,6 +1,9 @@
 ---
 title:  "Introduction to Geospatial Electrification Modelling and GIS"
 layout: page
+sidebar:
+  title: "Lessons"
+  nav: sidebar
 ---
 
 {% include module_1-list.html %}

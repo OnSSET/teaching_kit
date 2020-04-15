@@ -1,6 +1,9 @@
 ---
-title:  "Module 2: Geospatial elecrification analysis using the GEP Scenario"
+title:  "Geospatial elecrification analysis using the GEP Scenario"
 layout: page
+sidebar:
+  title: "Lessons"
+  nav: sidebar
 ---
 
 

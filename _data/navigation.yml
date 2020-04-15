@@ -1,0 +1,11 @@
+sidebar:
+  -title: Module 1
+  subfolderitems: 
+    - page: Lecture 1
+      url: /Introducion to geospatial electrification modelling.html 
+    - page: Exercise 1
+      url: /Exploring electrification investment scenarios using the GEP Explorer.html
+    - page: Lecture 2
+      url: /Introduction to the Theory and Application of GIS.html
+    - page: Lecture 3
+      url: /
