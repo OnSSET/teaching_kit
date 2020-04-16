@@ -5,8 +5,6 @@ folder: module_1
 ---
 
 
-# Lecture 2: Introducion to the Theory and Application of GIS
-
 <style>
 
 .responsive-wrap iframe{ max-width: 100%;}
