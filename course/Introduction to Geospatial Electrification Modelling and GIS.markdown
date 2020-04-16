@@ -4,8 +4,6 @@ layout: module_1
 
 ---
 
-# Lecture 1: Introduction to geospatial electrification modelling
-
 <style>
 
 .responsive-wrap iframe{ max-width: 100%;}
