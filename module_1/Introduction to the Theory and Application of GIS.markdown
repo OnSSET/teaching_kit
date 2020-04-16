@@ -1,5 +1,5 @@
 ---
-title:  "Lecture 2: Introducion to the Theory and Application of GIS"
+title:  "Lecture 2: Introduction to the Theory and Application of GIS"
 layout: module_1
 folder: module_1
 ---
@@ -18,6 +18,4 @@ folder: module_1
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQekHJMdnRDQz_GIA7iIOd_hS5CClJPZWNtjPNOfw6ATLh2hBI1avHPFKs6ZZvlBA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSaKdGfRyC_j8FtXnX0JbVXWe08nqlej2X-6ig3zBsBaikkM9O5kEZFISLYnxT6Yw/pub?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</div>
 

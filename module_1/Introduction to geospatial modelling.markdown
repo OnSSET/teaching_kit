@@ -4,7 +4,6 @@ layout: module_1
 folder: module_1
 ---
 
-# Lecture 1: Introduction to geospatial electrification modelling
 
 <style>
 

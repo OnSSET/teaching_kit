@@ -4,8 +4,6 @@ layout: module_1
 
 ---
 
-{% include module_1-list.html %}
-
 # Lecture 1: Introduction to geospatial electrification modelling
 
 <style>
