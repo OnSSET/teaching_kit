@@ -1,6 +1,6 @@
 ---
 title:  "Lecture 2: Introducion to the Theory and Application of GIS"
-layout: page
+layout: module_1
 folder: module_1
 ---
 {% include module_1-list.html %}

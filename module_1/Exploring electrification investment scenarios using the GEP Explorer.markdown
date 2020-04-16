@@ -1,6 +1,6 @@
 ---
 title:  "Exercise 1: Exploring electrification investment scenarios using the GEP Explorer"
-layout: page
+layout: module_1
 folder: module_1
 ---
 {% include module_1-list.html %}
