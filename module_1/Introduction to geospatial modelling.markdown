@@ -3,7 +3,6 @@ title:  "Lecture 1: Introduction to geospatial modelling"
 layout: module_1
 folder: module_1
 ---
-{% include module_1-list.html %}
 
 # Lecture 1: Introduction to geospatial electrification modelling
 

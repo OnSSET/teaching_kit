@@ -3,7 +3,7 @@ title:  "Lecture 2: Introducion to the Theory and Application of GIS"
 layout: module_1
 folder: module_1
 ---
-{% include module_1-list.html %}
+
 
 # Lecture 2: Introducion to the Theory and Application of GIS
 
