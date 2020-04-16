@@ -1,18 +1,15 @@
 ---
 layout: default
-sidebar:
-  title: "Lessons"
-  nav: sidebar
 ---
 <article class="post">
-
   <header class="post-header">
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
-
+  {% include sidebar.html %}
   <div class="post-content">
     {{ content }}
   </div>
+
 
 
 </article>
