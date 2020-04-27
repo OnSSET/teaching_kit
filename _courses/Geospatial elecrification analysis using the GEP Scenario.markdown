@@ -1,7 +1,8 @@
 ---
 title:  "Geospatial elecrification analysis using the GEP Scenario"
-layout: page
-
+layout: courses
+type: course
+order: 2
 ---
 
 

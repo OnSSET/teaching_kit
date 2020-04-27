@@ -7,4 +7,14 @@ This course contains all the modules needed to succesfully install and run the O
 
 ## Syllabus
 
-{% include course-list.html %}
+
+{% include courses-list.html %}
+
+
+
+
+
+
+
+
+

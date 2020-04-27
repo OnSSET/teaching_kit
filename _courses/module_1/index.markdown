@@ -1,11 +1,8 @@
 ---
 layout: default
 ---
-<h1>Course</h1>
 
-<h2>Module 1</h2>
-
+<h1>Module 1</h1> 
 
 {% include module_1-list.html %}
 
-<h2>Module 2</h2>

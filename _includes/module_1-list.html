@@ -1,12 +1,10 @@
-<ul class="post-list">
-  {% for page in site.pages %}
-    {% assign parts = page.url | split: '/' %}
-    {% if parts[1] == "module_1" and page.title %}
-    <li>
-      <h4>
-        <a href="{{ page.url | relative_url }}">{{ page.title | escape }}</a>
-      </h4>
-    </li>  
-    {% endif %}
-  {% endfor %}
-  </ul> 
+
+  <ul class="post-list">
+    {% assign sorted-module_1 = site.courses| where:"type","module_1" | sort: "order" %}
+    {% for item in sorted-module_1  %}
+        <h4>
+          <a href="{{ item.url | relative_url }}">{{ item.title |  escape }}</a>
+        </h4>
+    {% endfor %}
+    </ul>    
+    

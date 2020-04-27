@@ -38,6 +38,20 @@ markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+
+# Collections
+
+collections:
+  courses:
+    permalink: "/:collection/:path/"
+    output: true
+  module_1:
+    permalink: "courses/:collection/:path/"
+    output: true
+  module_2:
+    permalink: "courses/:collection/:path/"
+    output: true
+   
 exclude:
   - README.md
   - LICENSE.txt
@@ -48,6 +62,25 @@ exclude:
 
   
 permalink: pretty
+
+defaults:
+  - scope:
+      path: ""
+      type: "course"
+    values:
+      layout: "course"
+  - scope:
+      path: ""
+      type: "module_1"
+    values:
+      layout: "module"
+  - scope:
+      path: ""
+      type: "module_2"
+    values:
+      layout: "module"
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
