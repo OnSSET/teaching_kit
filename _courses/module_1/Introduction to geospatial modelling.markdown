@@ -6,7 +6,7 @@ type: module_1
 ---
 {% include module_1-list.html %}
 
-# Lecture 1: Introduction to geospatial electrification modelling
+## Lecture 1: Introduction to geospatial electrification modelling
 
 ### Lecture 1.1 - Introduction
 <style>
@@ -48,3 +48,6 @@ type: module_1
 
 <iframe src="https://drive.google.com/file/d/1khtuEOdQNfAdUTsn-Nrco_RR6JzhGoOJ/preview" frameborder="0" width="1100" height="440" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
+
+### Lecture 1 Presentation Slides
+<iframe src="https://drive.google.com/file/d/1YNws5D-ab0PbpPv3isFVWf0srOIhgulp/preview" frameborder="0" width="700" height="390" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
