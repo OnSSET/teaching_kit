@@ -16,6 +16,6 @@ order: 1
 <iframe src="https://drive.google.com/file/d/1YNws5D-ab0PbpPv3isFVWf0srOIhgulp/preview" frameborder="0" width="700" height="390" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
-#### [Click here for video lectures (Lecture 1) ](/teaching_kit/courses/module_1/Introduction to geospatial modelling)
+#### [Click here for video lectures (Lecture 1)](/teaching_kit/courses/module_1/Introduction to geospatial modelling)
 
 
