@@ -21,7 +21,7 @@ This material was developed in conjunction with capacity building efforts suppor
 * [United Nations Department of Economic and Social Affairs (UNDESA)](https://www.un.org/development/desa/en/)
 * [Oxford Policy and Management](https://www.opml.co.uk/)
 * [International Centre of Theoretical Physics (ICTP)](https://www.ictp.it/)
-* [United Nations Economic Commission for Africa](https://www.uneca.org/)
+* [United Nations Economic Commission for Africa (UNECA)](https://www.uneca.org/)
 * [Cambridge University](https://www.cam.ac.uk/)
 * [Smart Development Works (SNV)](https://snv.org/)
 
