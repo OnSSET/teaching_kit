@@ -13,7 +13,12 @@ Key components of this course include:
 * Interpretation of modelling results for strategy development and policy formulation  
 
 This material was developed in conjunction with capacity building efforts supported by:<br>
-•	[The World Bank](https://www.worldbank.org/) 
+* [The World Bank](https://www.worldbank.org/) 
+* [Energy Sector Management Assistance Program (ESMAP)](https://www.esmap.org/)
+* [United Nations Development Program (UNDP)](https://www.undp.org/content/undp/en/home.html)
+* [United Nations Department of Economic and Social Affairs (UNDESA)](https://www.un.org/development/desa/en/)
+* [Oxford Policy and Management](https://www.opml.co.uk/)
+* [International Centre of International Physics (ICTP)](https://www.ictp.it/)
 
 
 ## Syllabus
