@@ -15,11 +15,16 @@ Key components of this course include:
 This material was developed in conjunction with capacity building efforts supported by:<br>
 * [The World Bank](https://www.worldbank.org/) 
 * [Energy Sector Management Assistance Program (ESMAP)](https://www.esmap.org/)
+* [KTH](https://www.energy.kth.se/energy-systems/)
+* [The OpTIMUS community](http://www.optimus.community/)
 * [United Nations Development Program (UNDP)](https://www.undp.org/content/undp/en/home.html)
 * [United Nations Department of Economic and Social Affairs (UNDESA)](https://www.un.org/development/desa/en/)
 * [Oxford Policy and Management](https://www.opml.co.uk/)
 * [International Centre of Theoretical Physics (ICTP)](https://www.ictp.it/)
+* [United Nations Economic Commission for Africa (UNECA)](https://www.uneca.org/)
+* [Cambridge University](https://www.cam.ac.uk/)
 * [Smart Development Works (SNV)](https://snv.org/)
+
 
 
 ## Syllabus
