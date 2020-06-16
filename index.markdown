@@ -12,7 +12,7 @@ Key components of this course include:
 * Overview of the Open Source Spatial Electrification Tool 
 * Interpretation of modelling results for strategy development and policy formulation  
 
-This material was developed in conjunction with capacity building efforts supported by:
+This material was developed in conjunction with capacity building efforts supported by:<br>
 •	[The World Bank](https://www.worldbank.org/) 
 
 
