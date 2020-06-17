@@ -6,7 +6,7 @@ order: 2
 ---
 
 
-# Lecture 3: Geospatial electrification analysis using the GEP Scenario
+# Lecture 3: Geospatial electrification analysis using the OnSSET Scenario
 
 <style>
 
