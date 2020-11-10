@@ -32,11 +32,6 @@ This material was developed in conjunction with capacity building efforts suppor
 {% include courses-list.html %}
 
 
-{% include navigation.html %}
-
-
-{% include navigation_1.html %}
-
 
 
 
