@@ -3,7 +3,6 @@ title:  "Module 1: Introduction to Geospatial Electrification Modelling and GIS"
 layout: courses
 type: course
 order: 1
-sidebar: toc
 ---
 
 # Module 1: Introduction to Geospatial Electrification Modelling and GIS 
