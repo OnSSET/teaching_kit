@@ -1,0 +1,11 @@
+docs_list_title: Documentation
+docs:
+
+- title: Module 1
+  url: _courses/home_module_1.md
+
+- title: Module 2
+  url: courses/home_module_2.md
+
+- title: Module 3
+  url: courses/home_module_3.md

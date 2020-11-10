@@ -1,0 +1,10 @@
+
+  <ul class="post-list">
+    {% assign sorted-module_2 = site.courses| where:"type","module_2" | sort: "order" %}
+    {% for item in sorted-module_2  %}
+        <h4>
+          <a href="{{ item.url | relative_url }}">{{ item.title |  escape }}</a>
+        </h4>
+    {% endfor %}
+    </ul>    
+    

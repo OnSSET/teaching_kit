@@ -10,10 +10,10 @@ type: module_1
 ## Lecture 2: Introduction to the Theory and Application of GIS
 
 <style>
-
 .responsive-wrap iframe{ max-width: 100%;}
-
 </style>
+
+You can dowload the slides of Lecture 2 [here](https://drive.google.com/file/d/13iRxgon8S0UoUSiMGQu_P9_Nv7IzwgDL/view?usp=sharing)
 
 ### Lecture 2.1 - Introduction to the module
 

@@ -29,9 +29,16 @@ This material was developed in conjunction with capacity building efforts suppor
 
 ## Syllabus
 
-
 {% include courses-list.html %}
 
+{% include navigation.html %}
+PORCO
+<h2>{{ site.data.list.docs_list_title }}</h2>
+<ul>
+   {% for item in site.data.list.docs %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+   {% endfor %}
+</ul>
 
 
 
