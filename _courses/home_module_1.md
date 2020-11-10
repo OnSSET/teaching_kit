@@ -3,6 +3,7 @@ title:  "Module 1: Introduction to Geospatial Electrification Modelling and GIS"
 layout: courses
 type: course
 order: 1
+sidebar: toc
 ---
 
 # Module 1: Introduction to Geospatial Electrification Modelling and GIS 
@@ -10,6 +11,7 @@ order: 1
 This module contains the following lectures and excercises:
 
 {% include module_1-list.html %}
+
 
 <!--- ## Lecture 1: Introduction to geospatial electrification modelling
 
@@ -22,3 +24,4 @@ This module contains the following lectures and excercises:
 #### [Click here for video lectures (Lecture 1)](/teaching_kit/courses/module_1/Introduction to geospatial modelling)
 -->
 
+ 
