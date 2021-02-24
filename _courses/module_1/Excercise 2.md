@@ -31,7 +31,7 @@ mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <br>
 ### Exercise 2 - Instructions
 
-Download the instructions for Exercise 2 [here](https://drive.google.com/file/d/165KqMKkEF3nO5-50Qr4Cr7Je6-u1Sw8f/view?usp=sharing)
+Download the instructions for Exercise 2 [here](https://drive.google.com/file/d/1XECkd1Eq0Jxkdtc2aOGdoNL3JNStw8x2/view?usp=sharing)
 
 Benin data for Excercise 2 [here](https://drive.google.com/file/d/1dtCO59PEfz4bWcFXk5VP7X6jAZhAQGZ9/view?usp=sharing)
 
