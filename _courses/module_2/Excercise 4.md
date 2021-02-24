@@ -11,6 +11,6 @@ order: 2
 
 # Exercise 4: Data collection and database development for GIS
 
-Download the instructions for Exercise 4 [here](https://drive.google.com/file/d/1R-F2JhwAnpcBzwrU-8Fbo1dSb9WDQxDO/view?usp=sharing)
+Download the instructions for Exercise 4 [here](https://drive.google.com/file/d/1P0giOV8VNVmiWCOCj0U9caSsagNqimbd/view?usp=sharing)
 
 <iframe src="https://drive.google.com/file/d/1R-F2JhwAnpcBzwrU-8Fbo1dSb9WDQxDO/preview" frameborder="0" width="700" height="990" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
