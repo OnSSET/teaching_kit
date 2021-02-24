@@ -11,6 +11,6 @@ order: 2
 
 # Exercise 1: Exploring electrification investment scenarios using the Explorer
 
-Download the instructions for Exercise 1 [here](https://drive.google.com/file/d/1ion0BENkwJlPC7vy6ATQvwz3OBUwsiVY/view?usp=sharing)
+Download the instructions for Exercise 1 [here](https://drive.google.com/file/d/1WjfKzRsafHtpDsC37drSn88BDwfly-qh/view?usp=sharing)
 
 <iframe src="https://drive.google.com/file/d/1ion0BENkwJlPC7vy6ATQvwz3OBUwsiVY/preview" frameborder="0" width="700" height="990" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
