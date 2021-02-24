@@ -18,7 +18,9 @@ order: 5
 
 #### Exercise 3 - Instructions
 
-Download the instructions for Exercise 3 [here](https://drive.google.com/file/d/1zq1ymzdhkC8MP0_5f_4QbJTXzAHyOJEd/view)
+Download the instructions for Exercise 3 [here](https://drive.google.com/file/d/1S_2B-0AmiLXE4lkQCzCDvP-O3jD9bwtH/view?usp=sharing)
+
+The dataset for the raster data is [here](https://drive.google.com/file/d/1C2h3ucnMh43heEx9OUflGoACoD0am37A/view?usp=sharing)
 
 <iframe src="https://drive.google.com/file/d/1zq1ymzdhkC8MP0_5f_4QbJTXzAHyOJEd/preview" frameborder="0" width="700" height="990" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
