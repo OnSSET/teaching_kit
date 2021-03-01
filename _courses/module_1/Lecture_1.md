@@ -8,7 +8,7 @@ type: module_1
 
 ## Lecture 1: Introduction to geospatial electrification modelling
 
-You can dowload the slides of Lecture 1 [here](https://drive.google.com/file/d/1YNws5D-ab0PbpPv3isFVWf0srOIhgulp/view?usp=sharing)
+You can dowload the slides of Lecture 1 [here](https://drive.google.com/file/d/1pfU7PsvCCY3lVBY9XsCijlhRSrNZ-o2z/view?usp=sharing)
 
 ### Lecture 1.1 - Introduction
 
