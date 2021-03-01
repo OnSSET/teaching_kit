@@ -13,7 +13,7 @@ type: module_1
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
 
-You can dowload the slides of Lecture 2 [here](https://drive.google.com/file/d/13iRxgon8S0UoUSiMGQu_P9_Nv7IzwgDL/view?usp=sharing)
+You can dowload the slides of Lecture 2 [here](https://drive.google.com/file/d/15Jhg9BNi9r6sJ_k1SiKY86IAd26V3Am0/view?usp=sharing)
 
 ### Lecture 2.1 - Introduction to the module
 
