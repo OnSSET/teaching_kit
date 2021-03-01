@@ -16,4 +16,4 @@ type: module_2
 
 <iframe src="https://drive.google.com/file/d/17yW51jvTE43KVU6CToxxv27h8WlAHa0A/preview" frameborder="0" width="700" height="390" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-You can dowload the slides of Lecture 3 [here](https://drive.google.com/file/d/17yW51jvTE43KVU6CToxxv27h8WlAHa0A/view?usp=sharing)
+You can dowload the slides of Lecture 3 [here](https://drive.google.com/file/d/1VoNU-cFYbLxssZH34GYO0AzMSS3eXt2N/view?usp=sharing)
