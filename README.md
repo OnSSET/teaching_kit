@@ -16,17 +16,17 @@ Target audience: Energy planners, academia and utility representatives.
 ## Development of the teaching kit
 This material was developed in conjunction with capacity building efforts supported by:
 
-The World Bank
-Energy Sector Management Assistance Program (ESMAP)
-KTH Royal Institute of Technology
-The OpTIMUS community
-United Nations Development Program (UNDP)
-United Nations Department of Economic and Social Affairs (UNDESA)
-Oxford Policy and Management
-International Centre of Theoretical Physics (ICTP)
-United Nations Economic Commission for Africa (UNECA)
-Cambridge University
-Smart Development Works (SNV)
+* The World Bank
+* Energy Sector Management Assistance Program (ESMAP)
+* KTH Royal Institute of Technology
+* The OpTIMUS community
+* United Nations Development Program (UNDP)
+* United Nations Department of Economic and Social Affairs (UNDESA)
+* Oxford Policy and Management
+* International Centre of Theoretical Physics (ICTP)
+* United Nations Economic Commission for Africa (UNECA)
+* Cambridge University
+* Smart Development Works (SNV)
 
 
 
