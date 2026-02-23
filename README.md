@@ -19,6 +19,7 @@ This material was developed in conjunction with capacity building efforts suppor
 * The World Bank
 * Energy Sector Management Assistance Program (ESMAP)
 * KTH Royal Institute of Technology
+* Sustainable Energy for All (SEforALL)
 * The OpTIMUS community
 * United Nations Development Program (UNDP)
 * United Nations Department of Economic and Social Affairs (UNDESA)
